@@ -1,0 +1,1 @@
+# latex_base_docker
